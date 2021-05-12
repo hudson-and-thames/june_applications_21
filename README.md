@@ -43,6 +43,12 @@ Pay close attention to detail and know that code style, inline comments, and doc
 
 The one consistent theme between all of our top researchers is their ability to go above and beyond what is asked of them. Please take the initiative to highlight your talent by going the extra mile and adding functionality that end users would love!
 
+### Notes
+* Your code for the implementation should be contained in a .py file that you import into your notebook. Please don't have large chunks of code in your notebook.
+* IDE Choice: PyCharm.
+* Save your data with your PR so that we can evaluate it.
+* Turn to the previous cohorts' submissions [here](https://github.com/hudson-and-thames/oct_applications) and [here](https://github.com/hudson-and-thames/march_applications_21) for inspiration.
+
 ## Institutional - Need to Know
 
 <div align="center">
