@@ -28,7 +28,8 @@ In a Jupyter Notebook (python):
 1. Create a set of functions/class for the end-user to make use of.
 1. Make sure to add docstrings and follow PEP8 code style checks. Have plenty of inline comments, good variable names and don't over complicate things unnecessarily. It should be easy for the user to make use of.
 1. Showcase your new Stop-Loss Rules Framework in a Jupyter Notebook and show us some great visualizations (Matplotlib is a bit basic).
-1. Add an introduction, body, and conclusion to your Jupyter Notebook showcasing your new implementation. (Use the correct style headers)
+1. Generate a series of AR(1) process observations (Equation 14 in the paper) with different rho values and prove empirically that a momentum strategy will benefit from a stop-loss rule, whereas a mean-reverting strategy will not.
+1. Add an introduction, body, and conclusion to your Jupyter Notebook showcasing your new implementation. (Use the correct style headers).
 1. Bonus points if you add a comparison of stop-loss strategies with various parameters (Fig. 3, 4, 5 in the paper) and draw your conclusions.
 1. Make a Pull Request to this repo so that we can evaluate your work. (Create a new folder with your name)
 1. Bonus points if you add unit tests (in a separate .py file).
