@@ -2,12 +2,6 @@
 
 [Hudson & Thames](https://hudsonthames.org/) has provided the following skillset challenge to allow potential researchers to gauge if they have the required skills to take part in the [apprenticeship program](https://hudsonthames.org/apprenticeship-program/).
 
-Our previous cohort built the foundations of the [ArbitrageLab](https://hudsonthames.org/arbitragelab/) python library. You will continue the development of [ArbitrageLab](https://hudsonthames.org/arbitragelab/) and other H&T packages.
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/hudson-and-thames/june_applications_21/master/images/arbitragelab_logo.png" height="250"><br>
-</div>        
-
 ## Your Mission:
 The following assignment is an opportunity for you to highlight your skillset and show us what you are made of! It tests your ability to implement academic research for the broader quantitative finance community, and to do it in style!
 
@@ -38,7 +32,7 @@ In a Jupyter Notebook (python):
 
 ### How Will You be Evaluated?
 
-Being a good researcher is a multivariate problem that can't be reduced to a few variables. You need to be good at, mathematics, statistics, computer science, finance, and communication.
+Being a good researcher is a multivariate problem that can't be reduced to a few variables. You need to be good at: mathematics, statistics, computer science, finance, and communication.
 
 Pay close attention to detail and know that code style, inline comments, and documentation are heavily weighted.
 
