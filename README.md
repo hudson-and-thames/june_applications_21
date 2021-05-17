@@ -8,7 +8,7 @@ The following assignment is an opportunity for you to highlight your skillset an
 ### Briefing
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/hudson-and-thames/june_applications_21/master/images/stop_loss_policy.png" height="250"><br>
+  <img src="https://raw.githubusercontent.com/hudson-and-thames/june_applications_21/master/images/stop_loss_policy.png?token=ABUXNYRXZT6MK6DMS254NXTAUJBYW" height="250"><br>
 </div>
 
 Read the following paper: [When do stop-loss rules stop losses?](https://dspace.mit.edu/bitstream/handle/1721.1/114876/Lo_When%20Do%20Stop-Loss.pdf). 
