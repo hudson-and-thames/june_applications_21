@@ -1,0 +1,8 @@
+yfinance
+yahoo_fin
+matplotlib
+seaborn
+numba
+sympy
+unittest
+pycodestyle
