@@ -2,6 +2,10 @@
 
 [Hudson & Thames](https://hudsonthames.org/) has provided the following skillset challenge to allow potential researchers to gauge if they have the required skills to take part in the [apprenticeship program](https://hudsonthames.org/apprenticeship-program/).
 
+<div align="center">
+  <img src="https://hudsonthames.org/wp-content/uploads/2021/02/LB_Hudson_Thames_ProductLogos_ArbitrageLab-13.png" height="250"><br>
+</div>
+
 ## Your Mission:
 The following assignment is an opportunity for you to highlight your skillset and show us what you are made of! It tests your ability to implement academic research for the broader quantitative finance community, and to do it in style!
 
@@ -47,7 +51,7 @@ The one consistent theme between all of our top researchers is their ability to 
 ## Institutional - Need to Know
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/hudson-and-thames/mlfinlab/master/docs/source/logo/Hudson%20%26%20Thames_verticalblack.png" height="150"><br>
+  <img src="https://hudsonthames.org/wp-content/uploads/2021/01/logo-black-horisontal.png" height="150"><br>
 </div>
 
 **Our Mission**
